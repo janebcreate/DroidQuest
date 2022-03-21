@@ -29,14 +29,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
         <ImageButton
-            android:id="@+id/previous_button"
+            android:id="@+id/previous_button_image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@mipmap/baseline_keyboard_arrow_left_black_24dp"
             android:contentDescription="Назад"
             />
         <ImageButton
-            android:id="@+id/next_button"
+            android:id="@+id/next_button_image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@mipmap/baseline_keyboard_arrow_right_black_24dp"

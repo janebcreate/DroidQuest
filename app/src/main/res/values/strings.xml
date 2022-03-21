@@ -3,7 +3,8 @@
     <string name="true_button">Да</string>
     <string name="false_button">Нет</string>
     <string name="next_button">Далее</string>
-    <string name="previous_button">Назад</string>
+    <string name="next_button_image">Далее</string>
+    <string name="previous_button_image">Назад</string>
     <string name="correct_toast">Верно!</string>
     <string name="incorrect_toast">Не верно!</string>
     <string name="menu_settings">Settings</string>
