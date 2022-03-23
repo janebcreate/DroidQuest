@@ -7,6 +7,7 @@
     <string name="previous_button_image">Назад</string>
     <string name="correct_toast">Верно!</string>
     <string name="incorrect_toast">Не верно!</string>
+    <string name="end">Конец!</string>
     <string name="menu_settings">Settings</string>
     <string name="question_android">OC Android основана на ядре Linux.</string>
     <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в строки и столбцы.</string>
@@ -18,4 +19,9 @@
     <string name="question_match">Свойство match_parent растягивает элемент на всю ширину экрана</string>
     <string name="question_toast">Класс Toast отвечает за всплывающие подсказки</string>
     <string name="question_drawable">В папку drawable необходимо помещать изображения</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть!</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+
 </resources>
