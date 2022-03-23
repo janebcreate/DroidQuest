@@ -26,7 +26,12 @@ class MainActivity : AppCompatActivity() {
         Question(R.string.question_linear, false),
         Question(R.string.question_service, false),
         Question(R.string.question_res, true),
-        Question(R.string.question_manifest, true)
+        Question(R.string.question_manifest, true),
+        Question(R.string.question_activity, true),
+        Question(R.string.question_find, true),
+        Question(R.string.question_match, true),
+        Question(R.string.question_toast, true),
+        Question(R.string.question_drawable, true)
     )
     private var mCurrentIndex = 0
 
